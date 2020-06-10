@@ -5,12 +5,148 @@
     <link>https://apapaion.github.io/</link>
       <atom:link href="https://apapaion.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Athanasios Papaioannou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Athanasios Papaioannou</title>
       <link>https://apapaion.github.io/</link>
     </image>
+    
+    <item>
+      <title>3dfacegan: Adversarial nets for 3d face representation, generation, and translation</title>
+      <link>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning framework for automated diagnosis and computer-assisted planning in plastic and reconstructive surgery</title>
+      <link>https://apapaion.github.io/publication/knoops-2019-machine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/knoops-2019-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new 3D statistical model for treacher collins syndrome using machine learning techniques to quantify facial shape differences from the normal</title>
+      <link>https://apapaion.github.io/publication/van-2019-new/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond</title>
+      <link>https://apapaion.github.io/publication/kollias-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/kollias-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric morphometrics aided by machine learning in craniofacial surgery</title>
+      <link>https://apapaion.github.io/publication/van-2019-geometric/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-geometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S12-09 SESSION 12: FACIOCRANIOSYNOSTOSIS--PART II A MACHINE LEARNING APPROACH FOR OUTCOME PREDICTION OF MIDFACIAL BIPARTITION DISTRACTION IN APERT PATIENTS</title>
+      <link>https://apapaion.github.io/publication/van-2019-s-12/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S15-01 SESSION 15: PLANNING/IMAGING-PART I STATISTICAL SHAPE MODELING AND RELATED TECHNIQUES AS A METHOD TO AID DIAGNOSIS, PLAN SURGERY AND ASSESS OUTCOME IN CRANIOFACIAL SURGERY.</title>
+      <link>https://apapaion.github.io/publication/dunaway-2019-s-15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/dunaway-2019-s-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S4B-03 SESSION 4B: ORTHOGNATHIC/TREACHER-COLLINS A MACHINE LEARNING FRAMEWORK FOR AUTOMATED DIAGNOSIS AND COMPUTER-ASSISTED SURGERY PLANNING IN ORTHOGNATHIC SURGERY</title>
+      <link>https://apapaion.github.io/publication/knoops-2019-s-4-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/knoops-2019-s-4-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesising 3D Facial Motion from&#34; In-the-Wild&#34; Speech</title>
+      <link>https://apapaion.github.io/publication/tzirakis-2019-synthesising/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/tzirakis-2019-synthesising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks</title>
+      <link>https://apapaion.github.io/publication/gecer-2019-synthesizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/gecer-2019-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aff-wild: Valence and arousal&#39;in-the-wild&#39;challenge</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2017-aff/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2017-aff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agedb: the first manually collected, in-the-wild age database</title>
+      <link>https://apapaion.github.io/publication/moschoglou-2017-agedb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-2017-agedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex representations for learning statistical shape priors</title>
+      <link>https://apapaion.github.io/publication/papaioannou-2017-complex/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/papaioannou-2017-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component analysis of complex-valued data for machine learning and computer vision tasks</title>
+      <link>https://apapaion.github.io/publication/papaioannou-2017-component/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/papaioannou-2017-component/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial affect</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2016-facial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2016-facial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal component analysis with complex kernel: The widely linear model</title>
+      <link>https://apapaion.github.io/publication/papaioannou-2013-principal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/papaioannou-2013-principal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel updating scheme for probabilistic latent semantic indexing</title>
+      <link>https://apapaion.github.io/publication/kotropoulos-2006-novel/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/kotropoulos-2006-novel/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

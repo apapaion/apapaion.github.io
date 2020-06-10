@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/publication-type/1/</link>
+      <atom:link href="https://apapaion.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://apapaion.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Aff-wild: Valence and arousal&#39;in-the-wild&#39;challenge</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2017-aff/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2017-aff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agedb: the first manually collected, in-the-wild age database</title>
+      <link>https://apapaion.github.io/publication/moschoglou-2017-agedb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-2017-agedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex representations for learning statistical shape priors</title>
+      <link>https://apapaion.github.io/publication/papaioannou-2017-complex/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/papaioannou-2017-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial affect</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2016-facial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2016-facial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

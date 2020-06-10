@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LS van de Lande | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/author/ls-van-de-lande/</link>
+      <atom:link href="https://apapaion.github.io/author/ls-van-de-lande/index.xml" rel="self" type="application/rss+xml" />
+    <description>LS van de Lande</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>LS van de Lande</title>
+      <link>https://apapaion.github.io/author/ls-van-de-lande/</link>
+    </image>
+    
+    <item>
+      <title>S12-09 SESSION 12: FACIOCRANIOSYNOSTOSIS--PART II A MACHINE LEARNING APPROACH FOR OUTCOME PREDICTION OF MIDFACIAL BIPARTITION DISTRACTION IN APERT PATIENTS</title>
+      <link>https://apapaion.github.io/publication/van-2019-s-12/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-s-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

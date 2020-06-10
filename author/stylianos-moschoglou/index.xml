@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stylianos Moschoglou | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/author/stylianos-moschoglou/</link>
+      <atom:link href="https://apapaion.github.io/author/stylianos-moschoglou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stylianos Moschoglou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stylianos Moschoglou</title>
+      <link>https://apapaion.github.io/author/stylianos-moschoglou/</link>
+    </image>
+    
+    <item>
+      <title>3dfacegan: Adversarial nets for 3d face representation, generation, and translation</title>
+      <link>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks</title>
+      <link>https://apapaion.github.io/publication/gecer-2019-synthesizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/gecer-2019-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agedb: the first manually collected, in-the-wild age database</title>
+      <link>https://apapaion.github.io/publication/moschoglou-2017-agedb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-2017-agedb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

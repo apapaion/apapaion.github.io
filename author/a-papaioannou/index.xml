@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Papaioannou | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/author/a-papaioannou/</link>
+      <atom:link href="https://apapaion.github.io/author/a-papaioannou/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Papaioannou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Papaioannou</title>
+      <link>https://apapaion.github.io/author/a-papaioannou/</link>
+    </image>
+    
+    <item>
+      <title>A new 3D statistical model for treacher collins syndrome using machine learning techniques to quantify facial shape differences from the normal</title>
+      <link>https://apapaion.github.io/publication/van-2019-new/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S12-09 SESSION 12: FACIOCRANIOSYNOSTOSIS--PART II A MACHINE LEARNING APPROACH FOR OUTCOME PREDICTION OF MIDFACIAL BIPARTITION DISTRACTION IN APERT PATIENTS</title>
+      <link>https://apapaion.github.io/publication/van-2019-s-12/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/van-2019-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S15-01 SESSION 15: PLANNING/IMAGING-PART I STATISTICAL SHAPE MODELING AND RELATED TECHNIQUES AS A METHOD TO AID DIAGNOSIS, PLAN SURGERY AND ASSESS OUTCOME IN CRANIOFACIAL SURGERY.</title>
+      <link>https://apapaion.github.io/publication/dunaway-2019-s-15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/dunaway-2019-s-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S4B-03 SESSION 4B: ORTHOGNATHIC/TREACHER-COLLINS A MACHINE LEARNING FRAMEWORK FOR AUTOMATED DIAGNOSIS AND COMPUTER-ASSISTED SURGERY PLANNING IN ORTHOGNATHIC SURGERY</title>
+      <link>https://apapaion.github.io/publication/knoops-2019-s-4-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/knoops-2019-s-4-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial affect</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2016-facial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2016-facial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

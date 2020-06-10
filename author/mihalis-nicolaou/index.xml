@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihalis Nicolaou | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/author/mihalis-nicolaou/</link>
+      <atom:link href="https://apapaion.github.io/author/mihalis-nicolaou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mihalis Nicolaou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mihalis Nicolaou</title>
+      <link>https://apapaion.github.io/author/mihalis-nicolaou/</link>
+    </image>
+    
+    <item>
+      <title>3dfacegan: Adversarial nets for 3d face representation, generation, and translation</title>
+      <link>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/moschoglou-20193-dfacegan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

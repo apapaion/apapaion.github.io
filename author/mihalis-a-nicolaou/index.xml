@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihalis A Nicolaou | Athanasios Papaioannou</title>
+    <link>https://apapaion.github.io/author/mihalis-a-nicolaou/</link>
+      <atom:link href="https://apapaion.github.io/author/mihalis-a-nicolaou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mihalis A Nicolaou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apapaion.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mihalis A Nicolaou</title>
+      <link>https://apapaion.github.io/author/mihalis-a-nicolaou/</link>
+    </image>
+    
+    <item>
+      <title>Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond</title>
+      <link>https://apapaion.github.io/publication/kollias-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/kollias-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aff-wild: Valence and arousal&#39;in-the-wild&#39;challenge</title>
+      <link>https://apapaion.github.io/publication/zafeiriou-2017-aff/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://apapaion.github.io/publication/zafeiriou-2017-aff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
