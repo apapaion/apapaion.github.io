@@ -1,10 +1,8 @@
 cv:
   name: Athanasios Papaioannou
-  label: Senior Research Scientist & Generative AI Engineer
+  headline: Senior Research Scientist & Generative AI Engineer
   email: apapaion@gmail.com
   location: London, UK
-  image: ""
-  summary: Senior computer vision researcher with 10+ years of experience building large-scale 3D and 4D visual systems, neural rendering pipelines, and generative models for human-centric applications. Track record of first- and senior-author publications at top venues (ECCV, ICCV, IJCV, Scientific Reports), with industry experience translating research into production-grade systems. Current work centres on neural rendering, Gaussian splatting, and feed-forward 3D reconstruction.
 
   social_networks:
     - network: GitHub
@@ -17,21 +15,21 @@ cv:
       - institution: Imperial College London
         location: London, UK
         area: Computing
-        studyType: PhD
+        degree: PhD
         start_date: 2012
         end_date: 2016
 
       - institution: Aristotle University of Thessaloniki
         location: Thessaloniki, Greece
         area: Informatics
-        studyType: MSc
+        degree: MSc
         start_date: 2003
         end_date: 2005
 
       - institution: Aristotle University of Thessaloniki
         location: Thessaloniki, Greece
         area: Informatics
-        studyType: BSc
+        degree: BSc
         start_date: 1999
         end_date: 2003
 
@@ -127,8 +125,8 @@ cv:
           - H. Dhamo
           - Z. Zhang
           - E. Perez-Pellitero
-        publisher: IJCV, 134, 161
-        releaseDate: 2026-01-01
+        journal: IJCV, 134, 161
+        date: "2026"
         summary: "*joint first authorship"
 
       - title: "imHead: A Large-Scale Implicit Morphable Model for Localized Head Modeling"
@@ -138,24 +136,24 @@ cv:
           - J. Deng
           - A. Papaioannou
           - S. Zafeiriou
-        publisher: ICCV
-        releaseDate: 2025-01-01
+        journal: ICCV
+        date: "2025"
 
       - title: "MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis"
         authors:
           - A. Papaioannou
           - B. Gecer
           - S. Cheng
-        publisher: ECCV
-        releaseDate: 2022-01-01
+        journal: ECCV
+        date: "2022"
 
       - title: "Convolutional Mesh Autoencoders for the 3-Dimensional Identification of FGFR-related Craniosynostosis"
         authors:
           - E. O'Sullivan
           - L. S. van de Lande
           - A. Papaioannou
-        publisher: Scientific Reports, 12, 2230
-        releaseDate: 2022-01-01
+        journal: Scientific Reports, 12, 2230
+        date: "2022"
 
       - title: "Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks"
         authors:
@@ -166,8 +164,8 @@ cv:
           - A. Papaioannou
           - S. Moschoglou
           - S. Zafeiriou
-        publisher: ECCV
-        releaseDate: 2020-01-01
+        journal: ECCV
+        date: "2020"
 
     Service:
       - company: ICCVW 2023
