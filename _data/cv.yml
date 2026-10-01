@@ -1,189 +1,180 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Athanasios Papaioannou
+  label: Senior Research Scientist & Generative AI Engineer
+  email: apapaion@gmail.com
+  location: London, UK
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Senior computer vision researcher with 10+ years of experience building large-scale 3D and 4D visual systems, neural rendering pipelines, and generative models for human-centric applications. Track record of first- and senior-author publications at top venues (ECCV, ICCV, IJCV, Scientific Reports), with industry experience translating research into production-grade systems. Current work centres on neural rendering, Gaussian splatting, and feed-forward 3D reconstruction.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: apapaion
+    - network: X
+      username: apapaion
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Imperial College London
+        location: London, UK
+        area: Computing
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2012
+        end_date: 2016
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Aristotle University of Thessaloniki
+        location: Thessaloniki, Greece
+        area: Informatics
+        studyType: MSc
+        start_date: 2003
+        end_date: 2005
+
+      - institution: Aristotle University of Thessaloniki
+        location: Thessaloniki, Greece
+        area: Informatics
+        studyType: BSc
+        start_date: 1999
+        end_date: 2003
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Google
+        position: Research Software Engineer, Generative AI
+        location: London, UK
+        start_date: 2026-09-01
         highlights:
-          - Relativity
-          - Description 2.
+          - Research and engineering on generative AI for 3D/4D vision applications.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Huawei Research
+        position: Senior Research Engineer
+        location: London, UK
+        start_date: 2020-06-01
+        end_date: 2026-09-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led computer vision research on neural rendering, 3D/4D reconstruction, and generative modelling of humans and scenes, including feed-forward Gaussian splatting for novel-view synthesis.
+          - Designed and trained large-scale generative 3D models (statistical, mesh-based, and implicit morphable representations) for high-fidelity human modelling.
+          - Built end-to-end data pipelines for multi-view, RGB-D, and 4D capture data, supporting model training, evaluation, and deployment on complex visual datasets.
+          - Drove evaluation and ablation methodology for reconstruction quality, geometric accuracy, and view-consistency, enabling systematic model comparison and iteration.
+          - Translated research prototypes into integration-ready systems in collaboration with infrastructure and engineering teams; supervised junior researchers and contributed to research direction setting.
+          - Co-organised the View Synthesis Challenge for Human Heads at ICCVW 2023.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Facesoft
+        position: Senior Research Engineer
+        location: London, UK
+        start_date: 2019-11-01
+        end_date: 2020-06-01
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed deep learning models for face analysis, recognition, and representation learning, deployed in real-time production computer vision systems.
+          - Designed data processing and training pipelines for large-scale face datasets, with emphasis on robustness across demographics and capture conditions.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Institute of Child Health, UCL
+        position: Research Associate
+        location: London, UK
+        start_date: 2018-01-01
+        end_date: 2019-10-01
+        highlights:
+          - Developed statistical and deep learning methods for analysing complex 3D craniofacial datasets, including mesh autoencoders for clinical 3D shape analysis.
+          - Built data processing and evaluation workflows for clinical 3D datasets and collaborated with surgeons, clinicians, and researchers on translational ML projects.
+          - Contributed to peer-reviewed publications on 3D shape modelling and clinical decision support.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Imperial College London
+        position: Research Associate
+        location: London, UK
+        start_date: 2017-01-01
+        end_date: 2018-12-01
+        highlights:
+          - Developed face tracking and verification systems for secure online assessment platforms, including identity verification and behavioural analysis components deployed at scale.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+      - company: Imperial College London
+        position: Research Assistant
+        location: London, UK
+        start_date: 2012-10-01
+        end_date: 2016-12-01
+        highlights:
+          - Built large-scale 4D facial datasets for emotion and behaviour recognition research; developed algorithms for automated facial analysis and statistical 3D modelling.
+          - Contributed to national and European research projects on face and behaviour analysis.
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: World Models
+        icon: fa-solid fa-globe
+      - name: Vision-Language-Action (VLA) Systems
+        icon: fa-solid fa-robot
+      - name: Agentic Perception
+        icon: fa-solid fa-eye
+      - name: Dynamic Scene Understanding
+        icon: fa-solid fa-cube
+      - name: Embodied AI
+        icon: fa-solid fa-brain
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Skills:
+      - name: 3D / 4D Vision
+        keywords: "Neural rendering, Gaussian splatting (3DGS, feed-forward variants), neural fields, differentiable rendering, novel-view synthesis, 3D/4D reconstruction, statistical and morphable shape models, mesh-based representations"
+      - name: Generative & Representation Learning
+        keywords: "Autoencoders, self-supervised learning, multimodal representation learning, foundation models for vision"
+      - name: ML Systems & Methodology
+        keywords: "Large-scale dataset construction, distributed and multi-GPU training, evaluation and ablation design, experimentation frameworks, research-to-production workflows"
+      - name: Programming
+        icon: fa-brands fa-python
+        keywords: "Python, C++ (production); previously MATLAB"
+      - name: Frameworks & Tools
+        keywords: "PyTorch (primary), NumPy, scikit-learn, Git, Linux, Slurm, GPU/cluster computing"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Publications:
+      - title: "ICo3D: An Interactive Conversational 3D Virtual Human"
+        authors:
+          - R. Shaw*
+          - Y. Jang*
+          - A. Papaioannou*
+          - A. Moreau*
+          - H. Dhamo
+          - Z. Zhang
+          - E. Perez-Pellitero
+        publisher: IJCV, 134, 161
+        releaseDate: 2026-01-01
+        summary: "*joint first authorship"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: "imHead: A Large-Scale Implicit Morphable Model for Localized Head Modeling"
+        authors:
+          - R. Potamias
+          - S. Galanakis
+          - J. Deng
+          - A. Papaioannou
+          - S. Zafeiriou
+        publisher: ICCV
+        releaseDate: 2025-01-01
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - title: "MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis"
+        authors:
+          - A. Papaioannou
+          - B. Gecer
+          - S. Cheng
+        publisher: ECCV
+        releaseDate: 2022-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "Convolutional Mesh Autoencoders for the 3-Dimensional Identification of FGFR-related Craniosynostosis"
+        authors:
+          - E. O'Sullivan
+          - L. S. van de Lande
+          - A. Papaioannou
+        publisher: Scientific Reports, 12, 2230
+        releaseDate: 2022-01-01
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks"
+        authors:
+          - B. Gecer
+          - A. Lattas
+          - S. Ploumpis
+          - J. Deng
+          - A. Papaioannou
+          - S. Moschoglou
+          - S. Zafeiriou
+        publisher: ECCV
+        releaseDate: 2020-01-01
+
+    Service:
+      - company: ICCVW 2023
+        position: Challenge Organiser — View Synthesis Challenge for Human Heads
+
+      - company: BMVC 2017
+        position: Local Chair & Web Chair
+
+      - company: CVPR, ECCV, ICCV, ACM Multimedia, BMVC, Scientific Reports
+        position: Reviewer
