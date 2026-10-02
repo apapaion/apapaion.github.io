@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-09-25 09:00:00+0000
+date: 25 Sept 2026 
 inline: true
 related_posts: false
 ---
 
-Launched my new personal website, built with [al-folio](https://github.com/alshedivat/al-folio).
+Joined Google AR & VR in London, UK, as Research Software Engineer.
